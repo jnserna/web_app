@@ -1,2 +1,3 @@
 pycaret==2.0.0
 streamlit
+pywin32==228
